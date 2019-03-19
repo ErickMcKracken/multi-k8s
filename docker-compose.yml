@@ -1,6 +1,6 @@
 version: '2'
 services: 
-  postgress:
+  postgres:
     image: 'postgres:latest'
   redis: 
     image: 'redis:latest'
